@@ -51,45 +51,35 @@ My current focus is on building high-performing engineering teams, architecting 
 
 A brain-game platform designed as a fun, purposeful alternative to endless scrolling. Built around quick, engaging games that refresh the mind while combining product thinking, game mechanics, and rapid prototyping.
 
-**Link:** https://www.mentalmint.xyz/
+**Link:** [mentalmint.xyz](https://www.mentalmint.xyz/)
 
 ### Career Pages
 
 A curated directory of career pages from 450+ leading tech companies, created to help job seekers discover better opportunities beyond the obvious names.
 
-**Link:** https://www.careerpages.co.in/
+**Link:** [careerpages.co.in](https://www.careerpages.co.in/)
 
 ### GoTo — Chrome Extension
 
 A keyboard-first productivity extension to reduce repetitive browsing actions and quickly search across GitHub, YouTube, Gmail, and other frequently used destinations.
 
+**Link:** [GoTo Extension](https://chromewebstore.google.com/detail/goto/iabecofjidglogmhkccmgihafpoaccmd)
+
 ### Page Filter Effects
 
 A Chrome extension to transform any website visually with filters like blur, grayscale, sepia, brightness, contrast, hue rotation, saturation, and invert — with preferences saved per site.
+**Link:** [Page Filter Effects Extension](https://chromewebstore.google.com/detail/page-filter-effects/apnbkmkpchabofhbnmhbdbnlpkbcomkg)
 
-### 8-Bit Arcade
-
-A browser-based NES gaming experiment with homebrew demo support, ROM loading, fullscreen mode, and display options.
-
-### Fleet Management System
-
-An enterprise system built for CSMCRI Bhavnagar to manage fleet operations more efficiently.
 
 ---
 
-## GitHub Snapshot
+## Learning, Community & Badges
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-prox&show_icons=true&theme=default&hide_border=true" alt="Tushar's GitHub stats" />
-</p>
+### Scrimba
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-prox&layout=compact&hide_border=true" alt="Top languages used by Tushar" />
-</p>
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com?via=u412d258)
 
----
-
-## Holopin Badges
+### Holopin
 
 [![@tv1981's Holopin board](https://holopin.me/tv1981)](https://www.holopin.io/@tv1981#badges)
 
@@ -97,11 +87,15 @@ An enterprise system built for CSMCRI Bhavnagar to manage fleet operations more 
 
 ## Professional Links
 
-* **Website:** https://www.tusharv.in/
-* **LinkedIn:** https://www.linkedin.com/in/tusharvaghela/
-* **GitHub:** https://github.com/tushar-prox
-* **Holopin:** https://www.holopin.io/@tv1981#badges
-* **X / Twitter:** https://twitter.com/tv1981
+| Platform           | Link                                                                        |
+| ------------------ | --------------------------------------------------------------------------- |
+| 🌐 **Website**     | [tusharv.in](https://www.tusharv.in/)                                       |
+| 💼 **LinkedIn**    | [linkedin.com/in/tusharvaghela](https://www.linkedin.com/in/tusharvaghela/) |
+| 🧑‍💻 **GitHub**   | [github.com/tushar-prox](https://github.com/tushar-prox)                    |
+| 🏅 **Holopin**     | [holopin.io/@tv1981](https://www.holopin.io/@tv1981#badges)                 |
+| 🎓 **Scrimba**     | [scrimba.com](https://scrimba.com?via=u412d258)                             |
+| 𝕏 **X / Twitter** | [twitter.com/tv1981](https://twitter.com/tv1981)                            |
+
 
 ---
 
